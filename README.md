@@ -1,6 +1,6 @@
 # TikTok-TechJam
 
-Minesweeper-LLM
+<img width="348" alt="MineSweeper LLM" src="https://github.com/Shanmukha-Anurag-Sajja/TikTok-TechJam/assets/175026464/5fba2ca1-1c5b-4872-abec-9d6bbfe04ca8">
 
 ## What it does
 
